@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minhuiweb/static/css/main.aca1c262.css",
+    "main.js": "/minhuiweb/static/js/main.03ccb39c.js",
+    "static/js/787.357e5da4.chunk.js": "/minhuiweb/static/js/787.357e5da4.chunk.js",
+    "index.html": "/minhuiweb/index.html",
+    "main.aca1c262.css.map": "/minhuiweb/static/css/main.aca1c262.css.map",
+    "main.03ccb39c.js.map": "/minhuiweb/static/js/main.03ccb39c.js.map",
+    "787.357e5da4.chunk.js.map": "/minhuiweb/static/js/787.357e5da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aca1c262.css",
+    "static/js/main.03ccb39c.js"
+  ]
+}
